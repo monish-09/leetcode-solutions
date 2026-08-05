@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/monish-09/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/monish-09/leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/monish-09/leetcode-solutions/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/monish-09/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/monish-09/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/monish-09/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/monish-09/leetcode-solutions/tree/master/1517-find-users-with-valid-e-mails) |
