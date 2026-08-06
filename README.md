@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/monish-09/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/monish-09/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/monish-09/leetcode-solutions/tree/master/1070-product-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/monish-09/leetcode-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/monish-09/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/monish-09/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/monish-09/leetcode-solutions/tree/master/1517-find-users-with-valid-e-mails) |
