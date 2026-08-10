@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/monish-09/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/monish-09/leetcode-solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/monish-09/leetcode-solutions/tree/master/1683-invalid-tweets) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/monish-09/leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/monish-09/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/monish-09/leetcode-solutions/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/monish-09/leetcode-solutions/tree/master/1873-calculate-special-bonus) |
